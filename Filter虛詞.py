@@ -1,7 +1,7 @@
 import re
 
 # 指定來源檔案與輸出檔案路徑
-input_filename = "道德經.txt"             # 請替換成你的文言文檔案名稱
+input_filename = "cleaned_text.txt"             # 請替換成你的文言文檔案名稱
 output_filename = "filtered_道德經_虛詞.txt"    # 輸出過濾後結果的檔案
 
 # 定義常見的文言文虛詞（停用詞）清單，依需求可增刪
