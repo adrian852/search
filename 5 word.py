@@ -5,7 +5,7 @@ target_character = "道"
 context_len = 5
 
 # 指定先前清理過標點符號的文字檔
-filename = "cleaned_text.txt"
+filename = "cleaned_text_道德經.txt"
 
 # 讀取清理後檔案內容
 with open(filename, "r", encoding="utf-8") as file:

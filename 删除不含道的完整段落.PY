@@ -2,8 +2,8 @@
 import re
 
 # 指定來源檔案與輸出檔案路徑
-input_filename = "cleaned_text.txt"      # 原始文字檔
-output_filename = "filtered_道.txt"  # 輸出只含有目標段落的文字檔
+input_filename = "cleaned_text_道德經.txt"      # 原始文字檔
+output_filename = "filtered_道德經_道.txt"  # 輸出只含有目標段落的文字檔
 
 # 指定要搜尋的目標中文字
 target_character = "道"

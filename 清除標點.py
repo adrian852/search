@@ -2,7 +2,7 @@ import re
 
 # 指定來源檔案路徑與輸出檔案路徑
 input_filename = "道德經.txt"
-output_filename = "cleaned_text.txt"
+output_filename = "cleaned_text_道德經.txt"
 
 # 定義正規表達式：
 # 本模式會移除所有非中文字（範圍：\u4e00-\u9fff）、非英數字、非底線與非空白字元，
